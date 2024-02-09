@@ -1,1 +1,2 @@
 # An-Individual-s-Life-Expectancies-at-Various-Ages
+Our main Objective is to reveal the complex connections and patterns within the dataset. We intend to identify the influence of various variables by utilizing statistcal approaches, correlation, data visualization and to conduct a comprehensive analysis of life expectancy data, exploring the relationships between various socio-economic, environmental, and healthcare factors.
